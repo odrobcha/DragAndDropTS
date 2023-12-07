@@ -1,0 +1,4 @@
+- To install TS `npm install typescript --save-dev`
+- To install light-server `npm i lite-server`
+- To start server `npm run start`
+- to compile .ts to .js and watch the changes  `tsc -w`
